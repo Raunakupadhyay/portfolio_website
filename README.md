@@ -3,8 +3,7 @@
 Welcome to my personal portfolio website!  
 This is a responsive and animated one-page website built using **HTML**, **CSS**, and **JavaScript**, showcasing my skills, projects, and contact information.
 
-🌐 [Live Demo](https://yourusername.github.io/portfolio/)  
-*(Replace with your GitHub Pages URL)*
+🌐 [Live Demo](https://raunakupadhyay.github.io/portfolio_website/)  
 
 ---
 
